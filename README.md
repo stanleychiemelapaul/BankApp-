@@ -2,7 +2,23 @@
 Bank Fund Transfer web application
 This is a project done with ReactJS by Stanley Chiemela Paul.
 
+The Live preview version of this project/application is available, click the link below to view:
 
+www.stanleypaul.netlify.app
+
+This project was carried out in a hurry due to time constraint hence could be improved for your usuage.
+
+Thanks
+
+
+Extract the SRC.ZIP file after download and follow the instructions below to install the packages and dependencies.
+
+
+
+Follow me on Social Media
+
+Facebook: www.facebook.com/stanleychiemelapaul
+Linkedin: www.linkedin/in/stanleychiemelapaul
 
 
 # Getting Started with Create React App
