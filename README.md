@@ -4,7 +4,7 @@ This is a project done with ReactJS by Stanley Chiemela Paul.
 
 The Live preview version of this project/application is available, click the link below to view:
 
-www.stanleypaul.netlify.app
+https://bankappbystanley.netlify.app
 
 This project was carried out in a hurry due to time constraint hence could be improved for your usuage.
 
