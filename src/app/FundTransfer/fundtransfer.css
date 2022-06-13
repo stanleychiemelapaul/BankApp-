@@ -1,0 +1,21 @@
+.submitbtn{
+    background-color: #faebf4;
+    color: #3f0326;
+    border-radius: 20px;
+    height: 47px;
+    font-size: 24px;
+    font-weight: 900;
+}
+.submitbtn:hover{
+    background-color: #3f0326;
+    color:  #faebf4;
+    border-color: #faebf4;
+}
+
+input[readonly]{
+    cursor: not-allowed !important;
+}
+
+.offscreen{
+    display: none !important;
+}
