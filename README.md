@@ -15,7 +15,7 @@ Extract the SRC.ZIP file after download and follow the instructions below to ins
 The Src folder was Zipped due to large files present in it
 
 
-Follow me on Social Media
+# Follow me on Social Media
 
 Facebook: www.facebook.com/stanleychiemelapaul
 Linkedin: www.linkedin/in/stanleychiemelapaul
